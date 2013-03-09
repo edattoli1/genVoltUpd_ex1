@@ -2,7 +2,7 @@
 *
 * Example program:
 *   GenVoltageUpdate
-***
+*
 * Category:
 *   AO
 *
